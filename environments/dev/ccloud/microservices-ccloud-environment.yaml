@@ -22,6 +22,7 @@ data:
             "cloud": "gcp",
             "region": "us-central1",
             "topic": [
+              { "name": "copper", "partitions": 3 },
               { "name": "bronze", "partitions": 3 },
               { "name": "gold", "partitions": 3 },
               { "name": "silver", "partitions": 3  },
