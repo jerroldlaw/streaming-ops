@@ -26,6 +26,7 @@ data:
               { "name": "gold", "partitions": 3 },
               { "name": "silver", "partitions": 3  },
               { "name": "platinum", "partitions": 3 },
+              { "name": "diamond", "partitions": 3 },
               { "name": "customers", "partitions": 3 },
               { "name": "orders", "partitions": 3 },
               { "name": "orders-enriched", "partitions": 3 },
